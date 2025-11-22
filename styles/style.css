@@ -290,6 +290,7 @@
 
   .section_type_factors {
     --section-gap: 78px;
+    grid-template-columns: 1fr;
   }
 
   .section_type_advices {
@@ -301,10 +302,6 @@
   }
 
   .section_type_gallery {
-    grid-template-columns: 1fr;
-  }
-
-  .section_type_factors {
     grid-template-columns: 1fr;
   }
 
